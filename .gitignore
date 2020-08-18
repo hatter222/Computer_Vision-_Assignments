@@ -1,0 +1,12 @@
+*.png
+*.pdf
+Exercise_1/data/
+*.pkl.gz
+*.txt
+*.jpg
+*.mp4
+*.dcm
+*.pkl
+*.xml
+*.iml
+
